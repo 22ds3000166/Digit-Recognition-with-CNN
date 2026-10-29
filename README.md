@@ -1,24 +1,6 @@
 
 # 🧠 Handwritten Digit Recognition System
 
-A 3-part end-to-end project where we:
-
-1. ✍️ Create a digit drawing canvas using **Tkinter**
-2. 🧑‍🔬 Train a digit recognition model using **PyTorch** and **MNIST**
-3. 🌐 Connect the canvas and model using a **Flask/FastAPI server**
-
----
-
-## 📽️ Video Series Overview
-
-| Part                                | Description                                                  |
-| ----------------------------------- | ------------------------------------------------------------ |
-| 🎥 **Part 1: Canvas Drawing App**   | Build a GUI with Tkinter where users can draw digits         |
-| 🎥 **Part 2: PyTorch Model**        | Train a CNN on MNIST dataset for digit classification        |
-| 🎥 **Part 3: Integration with API** | Use FastAPI to connect the canvas app with the trained model |
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -122,20 +104,6 @@ Conv2d(1, 32, kernel_size=3) → ReLU → MaxPool
 ```
 
 Trained on the MNIST dataset with accuracy reaching \~98%.
-
----
-
-## 🎉 Playlist
-
-> Find Here: [[YouTube Playlist Link](https://www.youtube.com/playlist?list=PLodrkpdRPgqHWeL114pyT-uIkvRAXyZs1)]()
-
----
-
-
-## 🧑‍💻 Author
-
-**Sankalp Shrivastava** – [GitHub](https://github.com/sankalp43)  ,  [LinkeDin](https://www.linkedin.com/in/sankalp-shrivastava-b0a294205/)
-
 
 
 
